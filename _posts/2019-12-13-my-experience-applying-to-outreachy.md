@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting into Wikimedia as an Outreachy Intern
+title: My experience Applying to Outreachy
 tags: [Outreachy Internship]
 ---
 
@@ -32,10 +32,4 @@ One great advice I got for this contribution phase, which I'm happy I took was t
 
 On the 26th of Novemmber 2019, I got the most exciting news that I had been selected as an Outreachy intern for Wikimedia. I was excited that I didn't give up before I even started simply because I thought it wasn't for me. So I will be working on the project: Documentation improvements to the ~20 top 100 most viewed MediaWiki Action API pages on-wiki.
 
-### Community bonding period
-Before the internship officially began, I created my blog and my user page on wikimedia. I had a video chat session with my mentor to discuss my goals for the internship as well as get all the necessary resources I needed. I also reviewed the list my mentor made on pages that needed improvements. I was under the weather for a while during this period so it kind of slowed me down a bit but I'm happy I was able to complete my community bonding activities.
-
-### Internship Progress report 1
-The internship officially kicked off on the 3rd of december 2019. I started with working on the micro-tasks that weren't completed during the contrbution period. So far I've been able to work on three pages and currently working on the fourth one. Thanks to the reports and resources from my mentor, It has really made things a lot more easy for me to understand.
-
-To cap this all up, I'm really excited to be working for Wikimedia, it feels like a dream come through and I also look forward to working with my mentor and the Wikimedia community to be able to contribute my own little quota to this wonderful foundation.
+I'm really excited to be working for Wikimedia, it feels like a dream come through and I also look forward to working with my mentor and the Wikimedia community to be able to contribute my own little quota to this wonderful foundation.
