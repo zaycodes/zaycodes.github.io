@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outreachy: Everybody Struggles
+title: [Outreachy: Everybody Struggles]
 tags: [Outreachy Internship]
 ---
 
