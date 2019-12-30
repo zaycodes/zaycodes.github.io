@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outreachy: Everybody Struggles
+title: Everybody Struggles
 tags: [Outreachy Internship]
 ---
 
@@ -18,5 +18,3 @@ I came across the same problem after I started my internship, and since I only b
 Nobody is perfect, just as no man is an Island. I could have saved so much time if I had simply just asked for help from my mentor or the community when I encountered my issue the first time and had difficulty fixing it but I didn't. There is no shame in making mistakes and facing challenges, it's a something everyone at the top has passed through and can relate to, and the best thing to do when such situations happen is to fix them and learn from them so you don't make those mistakes or face those challenges again and even if you do or encounter someone else facing the same challenge which is possible, fixing it wouldn't be a problem. 
 
 Another improtant lesson learnt is `DO NOT TAKE SHORTCUTS`. As a developer, I know how frustrating challenges and bugs can be especially when you are on a timeline, and how tempting it can be to take the easier route which is most times just a workaround and not exactly a solution to the problem. Yeah, it may seem better at the moment but the truth is most times, these solutions aren't sustainable and can even lead to even more bugs to manage, thereby wasting more time and resources. So my advice will be to ask questions, research and don't stay glued to your screen for long hours trying to solve the same problem because at some point you start to try the same things over and over again, expecting to get a different result and when you don't you get dissapointed, so instead of working long hours at a stretch, take breaks, when you get back you might be able to look at things a bit differently and when you finally fix that bug, issue, mistake, challenge or whatever it may be, `DOCUMENT` everything. Do not just assume you have known it, be sure to put down your findings so when you or anyone else passes through the same issue, you can pass your solution on to them easily and save yourselves a lot of time.
-
-
