@@ -4,9 +4,12 @@ title: My experience Applying to Outreachy
 tags: [Outreachy Internship]
 ---
 
-## Outreachy - The Application Process
 
-Outreachy is an internship program that helps women and people who are under-represented get more invloved with open source through remote internships. When I first heard of outreachy I was skeptical because I had very little experience in open source. I decided to do some research. After series of research on outreachy and reading the reports and success stories of ex-interns, I was convinced within me that this was the breakthrough I needed to break out of my shell and get more involved in open source. 
+Outreachy is an internship program that helps women and people who are under-represented get more invloved with open source through remote internships. Outreachy provides a supportive community for beginning to contribute any time throughout the year and offer focused internship opportunities twice a year with a number of free software organizations.
+
+## The Application Process
+
+When I first heard of outreachy I was skeptical because I had very little experience in open source. I decided to do some research. After series of research on outreachy and reading the reports and success stories of ex-interns, I was convinced within me that this was the breakthrough I needed to break out of my shell and get more involved in open source. 
 
 So I subscribed to Outreachy's mailing list to get a notification when applications would open and started getting more involved in open source contributions as I was really motivated by all the success stories I had read at this point. 
 
