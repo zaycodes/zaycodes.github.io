@@ -25,7 +25,7 @@ The contribution phase kicked off on 1st of October and lasted for about a month
 
 After selecting my choice project, I went through all the available resources, registered on the communication platform which was zulip, created a phabricator account and a mediawiki account. I introduced myself on `zulip` -MediaWiki's communication channel- to other members and also to the mentor assigned to me (Brenda Jerop). 
 
-Then came the time to actually put in some work. A phabricator page was created for us (applicants) with a list of micro-tasks to work on. Things like api documentation page improvement were included in the tasks. I picked my first task which became my first contribution and started working on it. To be honest it was all overwhelming at first as most of the technologies were a bit new to me. But then there was something very important I learnt from this phase, which is fact that `communication` is key. I asked my mentor for guidance whenever I got stuck or was confused coupled with the fact that mediawiki had a lot of resources to help including blog posts and reports of past interns, all you had to do was just look. 
+Then came the time to actually put in some work. A phabricator page was created for us (applicants) with a list of micro-tasks to work on. Things like API documentation page improvement were included in the tasks. I picked my first task which became my first contribution and started working on it. To be honest it was all overwhelming at first as most of the technologies were a bit new to me. But then there was something very important I learnt from this phase, which is fact that `communication` is key. I asked my mentor for guidance whenever I got stuck or was confused coupled with the fact that mediawiki had a lot of resources to help including blog posts and reports of past interns, all you had to do was just look. 
 
 I was so excited when I created my first pull request but even more ecstatic when it was merged. I was able to submit three pull requests during the contribution period with one work in progress. Somewhere in between contributions, I drafted out my final application and submitted it to my mentor to review. Then I submitted on outreachy. 
 
@@ -33,6 +33,6 @@ One great advice I got for this contribution phase, which I'm happy I took was t
 
 ## Getting Selected as an Outreachy Wikimedia Intern
 
-On the 26th of Novemmber 2019, I got the most exciting news that I had been selected as an Outreachy intern for Wikimedia. I was excited that I didn't give up before I even started simply because I thought it wasn't for me. So I will be working on the project: Documentation improvements to the ~20 top 100 most viewed MediaWiki Action API pages on-wiki.
+On the 26th of November 2019, I got the most exciting news that I had been selected as an Outreachy intern for Wikimedia. I was excited that I didn't give up before I even started simply because I thought it wasn't for me. So I will be working on the project: Documentation improvements to the ~20 top 100 most viewed MediaWiki Action API pages on-wiki.
 
 I'm really excited to be working for Wikimedia, it feels like a dream come through and I also look forward to working with my mentor and the Wikimedia community to be able to contribute my own little quota to this wonderful foundation.
