@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My experience Applying to Outreachy
+title: My Experience Applying to Outreachy
 tags: [Outreachy Internship]
 ---
 
