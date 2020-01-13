@@ -60,3 +60,5 @@ I've learned Wiki editing, using mediawiki templates, creating and managing tran
 ## What was confusing to you about the project?
 
 Well I'll say at first creating and managing translatable pages and adding translation tags to my sandbox pages before pushing to the main page was quite confusing but with the help of my mentor and going through resources on translating pages, I am well past that confusion now. 
+
+My journey and experience so far with this wonderful community has been an exciting one and I'm ecstatic about the opportunity to learn and collaborate and also experiences that still awaits me.
