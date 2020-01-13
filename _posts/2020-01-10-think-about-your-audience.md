@@ -4,7 +4,6 @@ title: Think About Your Audience
 tags: [Outreachy Internship]
 ---
 
-## Mediawiki - My Community
 
 MediaWiki is a collaboration and documentation platform brought to you by a vibrant community and anyone who shares Wikimedia's vision to collect and share knowledge that fully represents human diversity is very much welcome to participate in the community. 
 
