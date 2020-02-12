@@ -6,11 +6,11 @@ tags: [Outreachy Internship]
 
 My internship with Wikimedia is gradually coming to an end and I must say it's been a life changing experience for me. I'm really amazed at what I've been able to achieve within this short period of time with the help of the community and guidance from my mentor. 
 
-## Looking for a job, internship, a grant, a volunteer position, or some type of other opportunity ?
+### Looking for a job, internship, a grant, a volunteer position, or some type of other opportunity ?
 
 I'm currently looking for full/part time job opportunities that will help me build a career in software development and also be able to improve developer experience. These opportunities could be remote and non-remote. Working remotely with Wikimedia has given some experience working remotely with a team and I must say, I enjoyed the flexibility that came with it. I am also open to relocating, if the need arises.
 
-## Types of work I would love to contribute to / skills that would help me wiith such work ?
+### Types of work I would love to contribute to / skills that would help me wiith such work ?
 
 I would love to contribute to projects that involve software development, improving developer experience, technical writing and documentation.
 
@@ -23,11 +23,11 @@ During my three months internship, I worked with the developer relations team wh
 
 These internships have helped me build technical skills in software development, technical writing, developer relations, and soft skills in communication, being a team player, using collaboration tools and working remotely.
 
-## Tools or skills would you like to learn?
+### Tools or skills would you like to learn?
 
 I would love to learn and explore software testing and devOps.
 
-## Interpersonal skills that make me a collaborative team member ?
+### Interpersonal skills that make me a collaborative team member ?
 
 I respect every member of my team(junior and senior), their opinions and their views. I am open to new ideas and believe in creativity. Having to work within a community and with a mentor during my internship also improved my communication skills. The project also helped improved my ability to connect with people through writing articles and blogposts.
 
